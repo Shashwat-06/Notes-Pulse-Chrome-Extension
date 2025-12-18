@@ -51,6 +51,13 @@ Enable Developer Mode
 Click Load unpacked  
 Select the dist folder
 
+## Screenshots
+
+![Notes Pulse Screenshot](screenshots/ss2.png)
+![Notes Pulse Screenshot](screenshots/ss1.png)
+![Notes Pulse Screenshot](screenshots/ss3.png)
+![Notes Pulse Screenshot](screenshots/ss4.png)
+
 ## Usage
 
 Click the Notes Pulse extension icon  
